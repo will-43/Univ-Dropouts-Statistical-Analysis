@@ -92,7 +92,6 @@ python analise_computacao_energias.py
 ```
 
 Results for all scripts will be saved in the `result_dados_exemplo` directory, including:
-- CSV files with statistical summaries
 - Visualizations of key metrics
 - Detailed HTML reports
 
@@ -100,11 +99,9 @@ Results for all scripts will be saved in the `result_dados_exemplo` directory, i
 
 - `academic_analysis.py`: Main analysis script for single dataset analysis
 - `comparative_analysis.py`: Script for comparing multiple academic datasets
-- `analise_computacao_energias.py`: Specialized analysis for computing and energy courses
 - `dados_exemplo_computacao_200.csv`: Example dataset for computing courses (200 records)
 - `dados_exemplo_energias_200.csv`: Example dataset for energy courses (200 records)
 - `requirements.txt`: Required Python packages
-- `setup.py`: Setup script for package installation
 
 ## Citation Requirement
 
