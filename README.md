@@ -21,12 +21,12 @@ You can install this package in two ways:
 
 1. **Using pip directly from GitHub:**
 ```bash
-pip install git+https://github.com/username/academic_analysis.git
+pip install git+https://github.com/atilamferreira/academic_analysis.git
 ```
 
 2. **Local installation:**
 ```bash
-git clone https://github.com/username/academic_analysis.git
+git clone https://github.com/atilamferreira/academic_analysis.git
 cd academic_analysis
 pip install -e .
 ```
