@@ -1,0 +1,201 @@
+matricula,periodo_ingresso,periodo_situacao,cr,situacao,forma_ingresso,forma_saida,sexo,naturalidade,raca_cor,acao_afirmativa,tipo_de_escola_em,conclusao_em,interticio,reprovacoes_1_ciclo,recebeu_auxilio,recebeu_bolsa
+E0192824,2019.1,2024.2,7.256890050833952,Cursando,SISU,NULL,M,Redenção,Branca,Ampla Concorrência,Privada,2018,1,0,não,sim
+E0242679,2024.1,2025.2,9.03169663166312,Formado,Vestibular,Formatura,F,Palmácia,Preta,Ampla Concorrência,Privada,2024,0,0,sim,sim
+E0224811,2022.1,2024.2,7.476731001173455,Cursando,Transferência,NULL,F,Baturité,Branca,Ampla Concorrência,Pública,2021,1,1,sim,não
+E0215557,2021.1,2025.2,9.16425003392524,Formado,Internacional,Formatura,M,Outros,Parda,Ampla Concorrência,Privada,2020,1,0,não,não
+E0176514,2017.1,2024.2,6.85529337145609,Cursando,Vestibular,NULL,M,Redenção,Parda,Estrangeiro,Pública,2017,0,2,sim,não
+E0176635,2017.2,2024.2,7.815008388415574,Trancado,Reopção,NULL,M,Redenção,Não declarada,Não informado,Pública,2013,4,0,sim,não
+E0167201,2016.1,2024.2,7.807067817333955,Trancado,ENEM,NULL,M,Fortaleza,Branca,Estrangeiro,Pública,2012,4,0,não,não
+E0232139,2023.1,2024.2,7.162711658927273,Cursando,Vestibular,NULL,M,Pacoti,Não declarada,Ampla Concorrência,Pública,2023,0,0,sim,não
+E0212654,2021.2,2023.2,4.154316371338304,Evadido,Transferência,Desistência,F,Outros,Indígena,Estrangeiro,Privada,2019,2,3,não,sim
+E0224432,2022.2,2024.2,9.191817797265358,Cursando,Vestibular,NULL,F,Pacoti,Parda,Lei nº 12.711/2012,Privada,2018,4,0,sim,sim
+E0153677,2015.2,2024.2,7.395876765556802,Cursando,SISU,NULL,M,Acarape,Parda,Ampla Concorrência,Pública,2010,5,1,não,não
+E0246313,2024.1,2025.1,8.049733703650906,Formado,SISU,Formatura,F,Fortaleza,Branca,Lei nº 12.711/2012,Pública,2022,2,0,não,não
+E0234456,2023.2,2025.2,8.309815917697971,Formado,Vestibular,Formatura,M,Baturité,Parda,Não informado,Privada,2022,1,1,não,não
+E0183287,2018.1,2024.2,6.95183745464861,Cursando,SISU,NULL,F,Fortaleza,Parda,Ampla Concorrência,Pública,2014,4,3,não,não
+E0176930,2017.1,2024.2,4.921526762880428,Trancado,ENEM,NULL,F,Fortaleza,Preta,Lei nº 12.711/2012,Pública,2017,0,1,sim,não
+E0172796,2017.1,2024.2,7.17562902794307,Cursando,SISU,NULL,F,Internacional,Parda,Ampla Concorrência,Privada,2013,4,0,sim,não
+E0197304,2019.2,2025.2,8.05086107669564,Formado,SISU,Formatura,F,Acarape,Branca,Ampla Concorrência,Pública,2014,5,0,não,sim
+E0209797,2020.2,2025.2,8.1618737001011,Formado,SISU,Formatura,M,Pacoti,Parda,Ampla Concorrência,Pública,2017,3,0,sim,não
+E0208433,2020.1,2024.2,6.103501877270392,Cursando,Vestibular,NULL,F,Redenção,Parda,Ampla Concorrência,Pública,2016,4,0,não,sim
+E0185889,2018.1,2019.2,6.599126833955774,Evadido,Vestibular,Transferência,M,Acarape,Parda,Ampla Concorrência,Não informado,2014,4,2,sim,sim
+E0219005,2021.1,2024.2,5.743437775838268,Trancado,Reopção,NULL,M,Fortaleza,Indígena,Lei nº 12.711/2012,Pública,2019,2,2,sim,não
+E0171949,2017.1,2023.1,8.414315549167462,Formado,SISU,Formatura,F,Pacoti,Não declarada,Lei nº 12.711/2012,Privada,2017,0,0,sim,não
+E0183103,2018.2,2024.1,6.604549001500957,Formado,SISU,Formatura,F,Internacional,Preta,Lei nº 12.711/2012,Não informado,2017,1,1,não,não
+E0196107,2019.2,2024.2,5.972558911436365,Cursando,Transferência,NULL,F,Fortaleza,Não declarada,Lei nº 12.711/2012,Pública,2015,4,3,não,não
+E0202982,2020.1,2024.2,6.947743723598284,Cursando,ENEM,NULL,M,Outros,Não declarada,Lei nº 12.711/2012,Pública,2018,2,0,sim,sim
+E0224770,2022.1,2024.2,6.837758274309233,Cursando,SISU,NULL,M,Palmácia,Amarela,Lei nº 12.711/2012,Privada,2017,5,0,sim,sim
+E0174750,2017.1,2021.2,6.2394217917626245,Formado,Vestibular,Formatura,M,Outros,Parda,Ampla Concorrência,Pública,2015,2,3,sim,sim
+E0204510,2020.1,2023.2,8.222748035265544,Evadido,Vestibular,Desistência,M,Internacional,Branca,Lei nº 12.711/2012,Privada,2017,3,0,sim,não
+E0212545,2021.1,2025.2,6.458746207981541,Formado,SISU,Formatura,F,Outros,Não declarada,Lei nº 12.711/2012,Não informado,2018,3,3,não,não
+E0151887,2015.1,2024.2,5.972851982101327,Cursando,SISU,NULL,F,Baturité,Parda,Ampla Concorrência,Não informado,2010,5,2,sim,não
+E0212790,2021.1,2024.2,7.582893578614418,Cursando,SISU,NULL,M,Internacional,Parda,Ampla Concorrência,Não informado,2017,4,1,sim,sim
+E0173296,2017.2,2021.2,7.20876939724732,Formado,ENEM,Formatura,M,Outros,Branca,Ampla Concorrência,Não informado,2017,0,1,não,sim
+E0162604,2016.1,2019.1,5.438367146841419,Evadido,Vestibular,Abandono,F,Baturité,Parda,Ampla Concorrência,Privada,2015,1,4,sim,sim
+E0248956,2024.2,2024.2,6.79788586238299,Cursando,Vestibular,NULL,F,Redenção,Preta,Lei nº 12.711/2012,Não informado,2024,0,1,sim,não
+E0247209,2024.1,2024.2,7.5892269315636645,Cursando,Vestibular,NULL,M,Fortaleza,Parda,Não informado,Pública,2021,3,1,não,não
+E0237930,2023.2,2024.2,5.047305356969307,Trancado,Vestibular,NULL,M,Fortaleza,Indígena,Ampla Concorrência,Privada,2021,2,2,sim,sim
+E0191958,2019.1,2022.2,6.165911854279717,Evadido,ENEM,Transferência,F,Outros,Não declarada,Ampla Concorrência,Pública,2015,4,3,sim,sim
+E0169238,2016.1,2024.2,8.594505947515094,Cursando,ENEM,NULL,F,Fortaleza,Parda,Não informado,Pública,2015,1,0,sim,sim
+E0212113,2021.1,2023.1,3.278379344840081,Evadido,ENEM,Desistência,M,Outros,Indígena,Não informado,Não informado,2017,4,1,sim,sim
+E0207868,2020.2,2024.2,6.684146973878114,Cursando,Transferência,NULL,F,Outros,Preta,Ampla Concorrência,Pública,2015,5,2,não,sim
+E0174910,2017.2,2024.2,8.023733655002461,Trancado,Vestibular,NULL,M,Fortaleza,Branca,Ampla Concorrência,Privada,2012,5,2,não,sim
+E0205915,2020.2,2022.1,7.956564086410478,Evadido,Vestibular,Transferência,F,Baturité,Não declarada,Ampla Concorrência,Pública,2016,4,2,sim,não
+E0152638,2015.1,2021.1,7.606342697163678,Formado,Transferência,Formatura,F,Fortaleza,Branca,Ampla Concorrência,Pública,2013,2,0,não,sim
+E0245002,2024.2,2024.2,8.573279662060537,Cursando,SISU,NULL,F,Fortaleza,Parda,Ampla Concorrência,Privada,2021,3,1,não,sim
+E0189666,2018.1,2024.2,5.633362036060556,Cursando,ENEM,NULL,F,Acarape,Não declarada,Ampla Concorrência,Pública,2017,1,3,não,sim
+E0212891,2021.1,2024.2,7.48273951458642,Cursando,SISU,NULL,M,Fortaleza,Branca,Ampla Concorrência,Pública,2019,2,2,sim,não
+E0194450,2019.2,2024.2,7.0414283805843185,Cursando,SISU,NULL,M,Palmácia,Branca,Ampla Concorrência,Pública,2015,4,1,sim,não
+E0205114,2020.1,2024.2,8.649820787535845,Formado,SISU,Formatura,M,Redenção,Branca,Ampla Concorrência,Pública,2020,0,1,não,sim
+E0203143,2020.2,2024.2,7.267696507692745,Cursando,Vestibular,NULL,F,Outros,Não declarada,Ampla Concorrência,Pública,2016,4,3,sim,não
+E0171158,2017.1,2018.1,5.998479962811881,Evadido,Transferência,Desistência,M,Fortaleza,Parda,Ampla Concorrência,Privada,2013,4,5,sim,não
+E0243426,2024.2,2024.2,8.29195798433536,Cursando,Transferência,NULL,M,Outros,Parda,Ampla Concorrência,Pública,2022,2,1,sim,sim
+E0221653,2022.2,2024.2,6.595041228151575,Cursando,Vestibular,NULL,M,Fortaleza,Parda,Ampla Concorrência,Pública,2017,5,0,sim,sim
+E0246794,2024.2,2025.1,8.63800219956576,Formado,SISU,Formatura,M,Palmácia,Amarela,Ampla Concorrência,Pública,2023,1,1,sim,sim
+E0231406,2023.1,2024.2,8.209581887415961,Cursando,Vestibular,NULL,F,Acarape,Branca,Ampla Concorrência,Pública,2018,5,0,não,não
+E0215371,2021.1,2024.2,7.3766793060563005,Cursando,Vestibular,NULL,M,Fortaleza,Branca,Ampla Concorrência,Pública,2021,0,1,sim,não
+E0244644,2024.1,2025.2,8.391661957863544,Formado,SISU,Formatura,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2023,1,0,não,sim
+E0164164,2016.2,2024.2,8.213184783814802,Cursando,Internacional,NULL,M,Outros,Indígena,Ampla Concorrência,Pública,2016,0,1,não,não
+E0176753,2017.2,2024.2,7.570116399994723,Cursando,Reopção,NULL,M,Baturité,Preta,Ampla Concorrência,Privada,2017,0,1,não,sim
+E0153925,2015.2,2024.2,7.328958972894465,Cursando,SISU,NULL,M,Pacoti,Preta,Ampla Concorrência,Pública,2011,4,3,sim,sim
+E0196663,2019.2,2024.2,7.438774672129483,Cursando,Vestibular,NULL,M,Fortaleza,Branca,Não informado,Pública,2016,3,2,não,sim
+E0194114,2019.2,2024.2,8.785414440277576,Cursando,ENEM,NULL,M,Baturité,Parda,Ampla Concorrência,Pública,2019,0,0,sim,não
+E0186967,2018.2,2019.2,6.726393339734174,Evadido,ENEM,Desistência,F,Internacional,Não declarada,Ampla Concorrência,Pública,2013,5,2,não,sim
+E0239308,2023.2,2025.2,6.146024820733488,Evadido,Vestibular,Desistência,F,Fortaleza,Branca,Lei nº 12.711/2012,Privada,2018,5,3,não,não
+E0193085,2019.1,2024.2,7.023406366322103,Cursando,SISU,NULL,F,Fortaleza,Indígena,Ampla Concorrência,Pública,2014,5,2,não,não
+E0183851,2018.2,2024.2,5.761828096346785,Cursando,SISU,NULL,F,Outros,Parda,Estrangeiro,Pública,2016,2,3,não,sim
+E0204443,2020.2,2024.2,7.362597668982044,Cursando,SISU,NULL,F,Pacoti,Preta,Lei nº 12.711/2012,Pública,2017,3,1,não,não
+E0174501,2017.2,2024.2,6.680262922876844,Cursando,Vestibular,NULL,F,Fortaleza,Preta,Ampla Concorrência,Privada,2015,2,2,sim,sim
+E0232530,2023.1,2024.2,7.614192661208901,Cursando,Transferência,NULL,F,Fortaleza,Indígena,Lei nº 12.711/2012,Pública,2022,1,0,não,sim
+E0161400,2016.1,2020.2,8.147668267534346,Formado,SISU,Formatura,F,Internacional,Parda,Lei nº 12.711/2012,Privada,2013,3,2,sim,não
+E0244185,2024.2,2024.2,6.886270920872728,Cursando,SISU,NULL,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2023,1,1,não,não
+E0221090,2022.1,2024.2,7.4265430465338875,Cursando,Reopção,NULL,M,Pacoti,Branca,Estrangeiro,Privada,2021,1,2,não,sim
+E0179486,2017.2,2024.2,9.637565353177079,Cursando,Vestibular,NULL,F,Internacional,Branca,Lei nº 12.711/2012,Pública,2017,0,1,sim,sim
+E0153184,2015.2,2024.2,6.977165084300877,Cursando,Transferência,NULL,F,Fortaleza,Não declarada,Ampla Concorrência,Privada,2011,4,2,não,não
+E0239270,2023.2,2025.2,7.044428388685883,Evadido,ENEM,Transferência,M,Fortaleza,Branca,Lei nº 12.711/2012,Pública,2020,3,2,sim,não
+E0225050,2022.2,2025.2,8.301140763667894,Formado,SISU,Formatura,M,Fortaleza,Preta,Ampla Concorrência,Privada,2019,3,0,sim,não
+E0225681,2022.1,2025.2,8.370874720363101,Formado,Vestibular,Formatura,M,Fortaleza,Parda,Estrangeiro,Pública,2021,1,0,não,sim
+E0224788,2022.2,2024.2,7.535119826634556,Cursando,Vestibular,NULL,F,Redenção,Não declarada,Ampla Concorrência,Pública,2022,0,1,sim,sim
+E0167678,2016.2,2022.2,7.483682165492561,Formado,Transferência,Formatura,M,Outros,Preta,Ampla Concorrência,Pública,2015,1,1,não,sim
+E0197381,2019.1,2024.2,6.7377474923575615,Cursando,Vestibular,NULL,M,Baturité,Parda,Ampla Concorrência,Pública,2019,0,1,não,não
+E0175892,2017.2,2022.1,9.036764371964281,Formado,SISU,Formatura,F,Outros,Parda,Lei nº 12.711/2012,Pública,2015,2,1,não,sim
+E0238956,2023.1,2024.2,8.666307604447242,Cursando,SISU,NULL,M,Redenção,Preta,Lei nº 12.711/2012,Pública,2018,5,1,não,não
+E0213704,2021.2,2025.1,8.631049041429508,Formado,SISU,Formatura,F,Fortaleza,Parda,Ampla Concorrência,Pública,2021,0,1,não,sim
+E0193223,2019.2,2023.1,7.576719870822525,Formado,Transferência,Formatura,F,Palmácia,Preta,Lei nº 12.711/2012,Pública,2017,2,0,não,não
+E0168449,2016.2,2021.2,8.562247212088451,Formado,SISU,Formatura,M,Redenção,Branca,Ampla Concorrência,Pública,2014,2,0,não,não
+E0198705,2019.1,2022.1,4.7313450566891255,Evadido,ENEM,Transferência,M,Fortaleza,Parda,Ampla Concorrência,Pública,2014,5,1,não,sim
+E0191659,2019.1,2024.2,6.371097813730988,Cursando,SISU,NULL,F,Internacional,Branca,Ampla Concorrência,Privada,2019,0,1,sim,sim
+E0224908,2022.1,2024.1,9.009043719639301,Evadido,Transferência,Desistência,M,Fortaleza,Indígena,Ampla Concorrência,Não informado,2017,5,1,sim,não
+E0217043,2021.1,2025.1,8.16553916574406,Formado,SISU,Formatura,M,Outros,Branca,Ampla Concorrência,Pública,2021,0,0,sim,não
+E0236111,2023.2,2024.2,7.737673405138347,Cursando,Vestibular,NULL,F,Pacoti,Parda,Estrangeiro,Pública,2023,0,2,não,sim
+E0204978,2020.1,2024.2,8.410858611496533,Cursando,SISU,NULL,M,Redenção,Branca,Ampla Concorrência,Privada,2016,4,0,não,sim
+E0176688,2017.2,2024.2,6.776362922188532,Cursando,SISU,NULL,M,Internacional,Preta,Ampla Concorrência,Pública,2013,4,2,não,sim
+E0221207,2022.2,2024.2,5.837530201446925,Cursando,Reopção,NULL,F,Fortaleza,Branca,Ampla Concorrência,Pública,2019,3,2,não,sim
+E0228532,2022.1,2025.1,8.844198709805276,Formado,Vestibular,Formatura,M,Fortaleza,Branca,Ampla Concorrência,Privada,2019,3,1,não,não
+E0215397,2021.2,2024.2,6.5849279325633585,Cursando,SISU,NULL,M,Outros,Amarela,Ampla Concorrência,Privada,2019,2,3,sim,sim
+E0224995,2022.2,2024.2,7.648536518095437,Cursando,SISU,NULL,M,Fortaleza,Parda,Lei nº 12.711/2012,Privada,2022,0,1,não,não
+E0206325,2020.1,2022.1,6.348927963033341,Evadido,Vestibular,Jubilamento,F,Fortaleza,Parda,Não informado,Pública,2018,2,2,não,não
+E0205526,2020.1,2023.1,6.7340111496982615,Evadido,SISU,Desistência,F,Palmácia,Preta,Não informado,Não informado,2015,5,3,sim,sim
+E0209004,2020.1,2023.2,5.50946789656279,Evadido,Vestibular,Jubilamento,F,Fortaleza,Indígena,Ampla Concorrência,Pública,2020,0,1,não,não
+E0155820,2015.1,2020.1,7.508623871090786,Formado,SISU,Formatura,M,Internacional,Branca,Ampla Concorrência,Pública,2012,3,2,não,não
+E0179698,2017.2,2019.2,7.369015605032253,Evadido,SISU,Jubilamento,F,Pacoti,Preta,Lei nº 12.711/2012,Pública,2015,2,1,não,não
+E0155118,2015.1,2019.1,7.935113392725707,Formado,ENEM,Formatura,M,Acarape,Parda,Não informado,Privada,2010,5,2,não,sim
+E0214033,2021.1,2022.2,7.4678409582250325,Evadido,SISU,Jubilamento,M,Fortaleza,Branca,Ampla Concorrência,Pública,2021,0,0,não,não
+E0195853,2019.1,2024.1,6.947130170244123,Formado,SISU,Formatura,M,Palmácia,Preta,Lei nº 12.711/2012,Não informado,2014,5,1,não,sim
+E0205494,2020.1,2024.2,7.484439793531577,Formado,SISU,Formatura,F,Outros,Parda,Ampla Concorrência,Privada,2020,0,0,sim,não
+E0245658,2024.2,2024.2,7.861679978440989,Trancado,SISU,NULL,F,Baturité,Preta,Ampla Concorrência,Pública,2022,2,0,não,não
+E0181841,2018.2,2023.1,9.081771732703777,Formado,Transferência,Formatura,M,Redenção,Não declarada,Estrangeiro,Privada,2015,3,0,sim,não
+E0201878,2020.1,2024.2,7.3818724341907105,Trancado,SISU,NULL,M,Fortaleza,Indígena,Ampla Concorrência,Pública,2020,0,0,sim,não
+E0222940,2022.2,2024.2,8.527459788461483,Cursando,Vestibular,NULL,M,Redenção,Não declarada,Ampla Concorrência,Pública,2019,3,1,sim,não
+E0185871,2018.2,2020.1,6.766268153205947,Evadido,Internacional,Transferência,F,Redenção,Parda,Ampla Concorrência,Pública,2013,5,1,sim,sim
+E0165335,2016.1,2017.1,7.41689123958124,Evadido,Vestibular,Desistência,M,Palmácia,Branca,Ampla Concorrência,Privada,2015,1,0,sim,sim
+E0187693,2018.2,2024.2,9.101259224151548,Cursando,Vestibular,NULL,F,Baturité,Preta,Lei nº 12.711/2012,Privada,2018,0,0,não,não
+E0175720,2017.2,2024.2,6.038398534603432,Cursando,ENEM,NULL,F,Internacional,Indígena,Lei nº 12.711/2012,Privada,2012,5,1,não,sim
+E0245334,2024.1,2024.2,6.850003211589007,Cursando,Transferência,NULL,M,Internacional,Branca,Lei nº 12.711/2012,Privada,2020,4,0,não,sim
+E0233441,2023.2,2024.2,6.841179036204448,Cursando,SISU,NULL,M,Pacoti,Não declarada,Ampla Concorrência,Privada,2023,0,1,sim,sim
+E0216039,2021.2,2024.2,8.174116945052237,Cursando,Vestibular,NULL,F,Baturité,Não declarada,Lei nº 12.711/2012,Pública,2018,3,2,não,sim
+E0235982,2023.2,2025.2,4.954540745424431,Evadido,SISU,Transferência,F,Redenção,Preta,Ampla Concorrência,Privada,2019,4,1,não,sim
+E0238078,2023.2,2024.2,6.50258973174841,Cursando,SISU,NULL,F,Internacional,Branca,Ampla Concorrência,Pública,2023,0,1,não,sim
+E0171339,2017.2,2024.2,8.24589227673344,Cursando,Transferência,NULL,F,Acarape,Preta,Ampla Concorrência,Não informado,2014,3,2,sim,sim
+E0238245,2023.2,2024.2,6.851166048084779,Cursando,SISU,NULL,F,Redenção,Parda,Ampla Concorrência,Privada,2018,5,3,sim,não
+E0202494,2020.2,2024.2,7.185063014059329,Trancado,SISU,NULL,M,Outros,Parda,Ampla Concorrência,Privada,2018,2,1,não,não
+E0232713,2023.1,2025.2,8.06311683029169,Formado,Internacional,Formatura,M,Fortaleza,Branca,Ampla Concorrência,Privada,2018,5,1,não,não
+E0231601,2023.2,2024.2,5.772791299591357,Evadido,Vestibular,Desistência,F,Outros,Amarela,Lei nº 12.711/2012,Privada,2023,0,4,não,não
+E0199431,2019.1,2022.2,7.805306208978242,Evadido,Vestibular,Transferência,M,Fortaleza,Branca,Ampla Concorrência,Privada,2018,1,2,não,sim
+E0176927,2017.2,2023.2,8.047348655991605,Formado,Vestibular,Formatura,M,Baturité,Preta,Ampla Concorrência,Privada,2015,2,0,sim,sim
+E0185719,2018.2,2024.2,6.937472560194981,Cursando,SISU,NULL,M,Pacoti,Preta,Lei nº 12.711/2012,Privada,2018,0,1,não,sim
+E0203594,2020.2,2023.1,2.3464132630117605,Evadido,SISU,Desistência,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2019,1,1,não,sim
+E0238560,2023.1,2024.2,6.32203800690698,Cursando,Transferência,NULL,M,Fortaleza,Branca,Ampla Concorrência,Pública,2018,5,2,sim,não
+E0239337,2023.2,2025.2,7.951127990220709,Formado,Vestibular,Formatura,F,Outros,Preta,Ampla Concorrência,Pública,2020,3,2,não,sim
+E0153369,2015.2,2024.2,9.14958507813865,Cursando,Transferência,NULL,M,Outros,Parda,Ampla Concorrência,Privada,2015,0,1,sim,sim
+E0207798,2020.2,2023.2,5.526670190802939,Evadido,SISU,Transferência,F,Outros,Parda,Ampla Concorrência,Privada,2015,5,3,sim,não
+E0209022,2020.1,2022.2,4.053256887171075,Evadido,SISU,Jubilamento,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2016,4,5,não,não
+E0187180,2018.2,2020.1,4.802007114693235,Evadido,Vestibular,Transferência,M,Internacional,Preta,Não informado,Não informado,2017,1,4,sim,não
+E0171715,2017.2,2024.2,6.935778073863433,Cursando,SISU,NULL,F,Outros,Parda,Ampla Concorrência,Privada,2014,3,2,não,não
+E0193492,2019.2,2024.2,6.294525351238291,Cursando,SISU,NULL,F,Redenção,Não declarada,Ampla Concorrência,Pública,2015,4,5,sim,sim
+E0246439,2024.1,2025.1,5.074912673417768,Evadido,Vestibular,Desistência,F,Baturité,Não declarada,Lei nº 12.711/2012,Pública,2019,5,2,não,sim
+E0197717,2019.1,2024.2,7.92818754552815,Cursando,Transferência,NULL,M,Internacional,Não declarada,Ampla Concorrência,Pública,2017,2,1,sim,não
+E0207512,2020.1,2024.2,4.930825904749953,Trancado,SISU,NULL,F,Outros,Parda,Ampla Concorrência,Pública,2018,2,4,não,não
+E0229864,2022.1,2024.2,7.739176287611606,Cursando,SISU,NULL,M,Outros,Preta,Ampla Concorrência,Privada,2017,5,2,sim,sim
+E0195708,2019.1,2022.1,3.3499606842941816,Evadido,SISU,Desistência,F,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2014,5,1,não,sim
+E0248269,2024.1,2024.2,7.491380637482176,Cursando,SISU,NULL,F,Internacional,Branca,Ampla Concorrência,Pública,2024,0,1,não,sim
+E0241919,2024.2,2025.2,5.737599587725871,Evadido,Vestibular,Transferência,M,Outros,Preta,Ampla Concorrência,Pública,2023,1,3,não,sim
+E0183950,2018.1,2022.1,8.086879397313268,Formado,Vestibular,Formatura,F,Redenção,Branca,Estrangeiro,Pública,2015,3,0,não,sim
+E0204804,2020.2,2024.2,7.929761583152822,Cursando,Vestibular,NULL,M,Outros,Parda,Ampla Concorrência,Pública,2018,2,2,não,não
+E0191153,2019.2,2024.2,8.196071988575984,Cursando,SISU,NULL,M,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2019,0,1,não,sim
+E0186661,2018.2,2024.2,7.438792691818186,Trancado,SISU,NULL,F,Fortaleza,Parda,Estrangeiro,Privada,2015,3,1,não,não
+E0154263,2015.2,2024.2,7.50553617528908,Cursando,Vestibular,NULL,F,Outros,Parda,Estrangeiro,Pública,2014,1,1,não,sim
+E0216881,2021.2,2024.2,6.348601473982247,Cursando,Vestibular,NULL,M,Palmácia,Branca,Não informado,Privada,2016,5,3,não,sim
+E0205497,2020.1,2025.1,8.80525119830562,Formado,Internacional,Formatura,M,Outros,Amarela,Lei nº 12.711/2012,Pública,2019,1,1,não,não
+E0164588,2016.1,2019.2,6.679225771270721,Evadido,SISU,Jubilamento,M,Internacional,Parda,Ampla Concorrência,Privada,2011,5,2,sim,sim
+E0181645,2018.2,2024.2,7.855923928437044,Cursando,SISU,NULL,M,Fortaleza,Parda,Ampla Concorrência,Privada,2014,4,1,não,sim
+E0243153,2024.1,2024.2,9.434963099282381,Cursando,SISU,NULL,M,Pacoti,Parda,Lei nº 12.711/2012,Pública,2019,5,1,não,não
+E0183877,2018.1,2024.2,8.548804245443835,Cursando,Vestibular,NULL,M,Fortaleza,Parda,Ampla Concorrência,Pública,2014,4,1,sim,não
+E0173695,2017.2,2024.2,8.327234785324931,Cursando,Vestibular,NULL,F,Outros,Branca,Ampla Concorrência,Pública,2012,5,1,não,não
+E0202886,2020.2,2024.2,8.427771505886724,Cursando,ENEM,NULL,M,Outros,Branca,Ampla Concorrência,Não informado,2019,1,1,sim,sim
+E0246992,2024.1,2025.1,6.811186860324239,Formado,Vestibular,Formatura,M,Outros,Parda,Lei nº 12.711/2012,Pública,2021,3,1,não,sim
+E0185295,2018.2,2021.2,3.5881015780392302,Evadido,SISU,Desistência,M,Fortaleza,Parda,Ampla Concorrência,Pública,2015,3,1,sim,sim
+E0216374,2021.1,2024.1,7.40115119458622,Evadido,SISU,Transferência,M,Redenção,Parda,Lei nº 12.711/2012,Não informado,2016,5,1,não,não
+E0222911,2022.1,2023.1,4.947749446618852,Evadido,ENEM,Desistência,M,Pacoti,Parda,Estrangeiro,Privada,2022,0,1,não,não
+E0184846,2018.1,2024.2,8.219825543753444,Cursando,SISU,NULL,F,Acarape,Parda,Lei nº 12.711/2012,Pública,2016,2,1,não,não
+E0223531,2022.2,2024.2,7.193899108639439,Cursando,Vestibular,NULL,M,Internacional,Não declarada,Ampla Concorrência,Pública,2018,4,3,sim,não
+E0195583,2019.1,2025.2,6.757113616636449,Formado,Vestibular,Formatura,F,Fortaleza,Parda,Não informado,Pública,2016,3,1,sim,não
+E0216942,2021.1,2025.2,7.810857895290014,Formado,Vestibular,Formatura,M,Acarape,Parda,Não informado,Privada,2018,3,1,não,sim
+E0214109,2021.1,2025.1,7.105146885661998,Formado,SISU,Formatura,F,Redenção,Branca,Ampla Concorrência,Privada,2021,0,2,sim,sim
+E0204990,2020.1,2024.2,8.196739042818947,Cursando,SISU,NULL,M,Redenção,Parda,Lei nº 12.711/2012,Pública,2016,4,0,sim,sim
+E0164538,2016.1,2021.1,7.916435352205895,Formado,Vestibular,Formatura,F,Fortaleza,Preta,Não informado,Privada,2015,1,0,sim,não
+E0239850,2023.2,2024.2,9.615375730209406,Cursando,Vestibular,NULL,F,Acarape,Branca,Não informado,Pública,2018,5,0,sim,sim
+E0193159,2019.1,2024.1,7.0419381344209935,Formado,Vestibular,Formatura,M,Acarape,Amarela,Lei nº 12.711/2012,Pública,2018,1,1,não,sim
+E0171858,2017.1,2020.2,5.243576840246259,Evadido,Reopção,Desistência,M,Fortaleza,Não declarada,Ampla Concorrência,Não informado,2014,3,4,sim,sim
+E0156931,2015.1,2017.1,5.729238893103334,Evadido,Vestibular,Desistência,F,Outros,Amarela,Ampla Concorrência,Privada,2012,3,1,sim,não
+E0211996,2021.2,2024.2,7.3148095827759505,Cursando,SISU,NULL,M,Redenção,Não declarada,Ampla Concorrência,Pública,2016,5,0,não,não
+E0219032,2021.2,2024.2,8.040564238806544,Cursando,SISU,NULL,F,Acarape,Não declarada,Ampla Concorrência,Privada,2019,2,0,sim,sim
+E0152076,2015.1,2017.2,5.41656759520854,Evadido,SISU,Desistência,F,Outros,Não declarada,Lei nº 12.711/2012,Privada,2012,3,5,não,não
+E0208048,2020.1,2024.2,8.164371301742008,Cursando,SISU,NULL,M,Fortaleza,Não declarada,Lei nº 12.711/2012,Privada,2017,3,1,sim,sim
+E0184743,2018.2,2023.2,6.885613954987262,Formado,ENEM,Formatura,F,Acarape,Parda,Ampla Concorrência,Privada,2013,5,0,não,não
+E0216120,2021.2,2024.2,7.3746544909522225,Cursando,SISU,NULL,M,Redenção,Branca,Ampla Concorrência,Não informado,2019,2,1,não,não
+E0178770,2017.1,2024.2,5.867679322908846,Trancado,SISU,NULL,M,Baturité,Parda,Lei nº 12.711/2012,Pública,2017,0,3,sim,sim
+E0212582,2021.2,2025.1,7.82605944532217,Formado,Vestibular,Formatura,F,Redenção,Não declarada,Lei nº 12.711/2012,Pública,2018,3,1,não,sim
+E0197929,2019.1,2024.2,8.307327696579787,Trancado,SISU,NULL,M,Fortaleza,Preta,Lei nº 12.711/2012,Pública,2017,2,0,não,não
+E0249313,2024.1,2025.2,8.788331485596467,Formado,Vestibular,Formatura,F,Fortaleza,Parda,Ampla Concorrência,Pública,2022,2,1,sim,sim
+E0172882,2017.2,2023.1,9.054151952418195,Formado,ENEM,Formatura,M,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2013,4,1,não,sim
+E0191474,2019.1,2021.2,4.490453732560064,Evadido,Transferência,Desistência,M,Fortaleza,Amarela,Ampla Concorrência,Pública,2019,0,2,não,não
+E0173347,2017.2,2021.1,5.870135078158486,Formado,SISU,Formatura,M,Outros,Indígena,Ampla Concorrência,Não informado,2012,5,5,sim,sim
+E0244524,2024.2,2025.2,7.13567079146863,Formado,Vestibular,Formatura,M,Fortaleza,Parda,Ampla Concorrência,Pública,2022,2,2,não,sim
+E0236314,2023.1,2024.2,7.98103942255156,Cursando,Vestibular,NULL,F,Outros,Não declarada,Ampla Concorrência,Privada,2022,1,2,sim,sim
+E0181815,2018.1,2024.2,7.153650261069213,Cursando,SISU,NULL,M,Pacoti,Parda,Lei nº 12.711/2012,Privada,2013,5,1,não,não
+E0218957,2021.2,2024.2,7.9162422311089475,Cursando,SISU,NULL,M,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2020,1,0,não,não
+E0236655,2023.2,2025.2,7.688520016279516,Formado,SISU,Formatura,F,Fortaleza,Preta,Lei nº 12.711/2012,Privada,2023,0,0,não,não
+E0217475,2021.1,2025.1,8.84480249316339,Formado,SISU,Formatura,M,Palmácia,Amarela,Ampla Concorrência,Pública,2020,1,1,não,sim
+E0205742,2020.2,2024.1,8.732941021450642,Formado,Internacional,Formatura,M,Fortaleza,Preta,Lei nº 12.711/2012,Pública,2019,1,0,não,não
+E0187229,2018.1,2021.2,7.628256962475657,Evadido,Vestibular,Desistência,M,Outros,Amarela,Não informado,Pública,2013,5,0,sim,não
+E0168147,2016.1,2024.2,8.271501374109858,Cursando,Vestibular,NULL,F,Fortaleza,Preta,Ampla Concorrência,Não informado,2014,2,2,não,sim
+E0238033,2023.2,2024.2,8.83518698481231,Cursando,SISU,NULL,M,Pacoti,Não declarada,Ampla Concorrência,Pública,2023,0,1,não,não
+E0241341,2024.2,2025.2,8.532518608371984,Formado,ENEM,Formatura,F,Outros,Indígena,Ampla Concorrência,Não informado,2021,3,0,não,sim
+E0214986,2021.2,2024.2,4.144335688295207,Evadido,Vestibular,Jubilamento,F,Internacional,Parda,Ampla Concorrência,Pública,2019,2,3,sim,não
+E0194630,2019.2,2024.2,6.446013745207692,Trancado,Reopção,NULL,M,Internacional,Indígena,Ampla Concorrência,Pública,2015,4,0,sim,sim
+E0199693,2019.1,2021.2,5.713508865556088,Evadido,Transferência,Transferência,M,Baturité,Preta,Lei nº 12.711/2012,Pública,2019,0,2,sim,sim
+E0225193,2022.1,2023.1,4.975089127051708,Evadido,Vestibular,Desistência,F,Fortaleza,Parda,Ampla Concorrência,Não informado,2017,5,4,sim,sim
+E0238601,2023.2,2024.2,6.579142593478282,Cursando,ENEM,NULL,M,Baturité,Parda,Ampla Concorrência,Privada,2022,1,3,não,não
+E0232118,2023.2,2024.2,6.064622899747038,Cursando,Transferência,NULL,M,Fortaleza,Preta,Não informado,Privada,2021,2,0,não,não
+E0226766,2022.1,2024.2,6.595389251996064,Cursando,SISU,NULL,F,Outros,Parda,Ampla Concorrência,Pública,2019,3,0,não,não

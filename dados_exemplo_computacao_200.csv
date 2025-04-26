@@ -1,0 +1,201 @@
+matricula,periodo_ingresso,periodo_situacao,cr,situacao,forma_ingresso,forma_saida,sexo,naturalidade,raca_cor,acao_afirmativa,tipo_de_escola_em,conclusao_em,interticio,reprovacoes_1_ciclo,recebeu_auxilio,recebeu_bolsa
+20192824,2019.1,2024.2,7.7,Cursando,SISU,NULL,M,Redenção,Branca,Ampla Concorrência,Privada,2018,1,0,não,sim
+20242679,2024.1,2025.2,8.7,Formado,Vestibular,Formatura,F,Palmácia,Preta,Ampla Concorrência,Privada,2024,0,0,sim,sim
+20224811,2022.1,2024.2,7.9,Cursando,Transferência,NULL,F,Baturité,Branca,Ampla Concorrência,Pública,2021,1,1,sim,não
+20215557,2021.1,2025.2,8.8,Formado,Internacional,Formatura,M,Outros,Parda,Ampla Concorrência,Privada,2020,1,0,não,não
+20176514,2017.1,2024.2,6.5,Cursando,Vestibular,NULL,M,Redenção,Parda,Estrangeiro,Pública,2017,0,2,sim,não
+20176635,2017.2,2024.2,7.7,Trancado,Reopção,NULL,M,Redenção,Não declarada,Não informado,Pública,2013,4,0,sim,não
+20167201,2016.1,2024.2,7.8,Trancado,ENEM,NULL,M,Fortaleza,Branca,Estrangeiro,Pública,2012,4,0,não,não
+20232139,2023.1,2024.2,7.2,Cursando,Vestibular,NULL,M,Pacoti,Não declarada,Ampla Concorrência,Pública,2023,0,0,sim,não
+20212654,2021.2,2023.2,4.1,Evadido,Transferência,Desistência,F,Outros,Indígena,Estrangeiro,Privada,2019,2,3,não,sim
+20224432,2022.2,2024.2,8.9,Cursando,Vestibular,NULL,F,Pacoti,Parda,Lei nº 12.711/2012,Privada,2018,4,0,sim,sim
+20153677,2015.2,2024.2,7.0,Cursando,SISU,NULL,M,Acarape,Parda,Ampla Concorrência,Pública,2010,5,1,não,não
+20246313,2024.1,2025.1,8.1,Formado,SISU,Formatura,F,Fortaleza,Branca,Lei nº 12.711/2012,Pública,2022,2,0,não,não
+20234456,2023.2,2025.2,8.0,Formado,Vestibular,Formatura,M,Baturité,Parda,Não informado,Privada,2022,1,1,não,não
+20183287,2018.1,2024.2,6.8,Cursando,SISU,NULL,F,Fortaleza,Parda,Ampla Concorrência,Pública,2014,4,3,não,não
+20176930,2017.1,2024.2,5.1,Trancado,ENEM,NULL,F,Fortaleza,Preta,Lei nº 12.711/2012,Pública,2017,0,1,sim,não
+20172796,2017.1,2024.2,7.2,Cursando,SISU,NULL,F,Internacional,Parda,Ampla Concorrência,Privada,2013,4,0,sim,não
+20197304,2019.2,2025.2,8.4,Formado,SISU,Formatura,F,Acarape,Branca,Ampla Concorrência,Pública,2014,5,0,não,sim
+20209797,2020.2,2025.2,8.6,Formado,SISU,Formatura,M,Pacoti,Parda,Ampla Concorrência,Pública,2017,3,0,sim,não
+20208433,2020.1,2024.2,6.5,Cursando,Vestibular,NULL,F,Redenção,Parda,Ampla Concorrência,Pública,2016,4,0,não,sim
+20185889,2018.1,2019.2,6.2,Evadido,Vestibular,Transferência,M,Acarape,Parda,Ampla Concorrência,Não informado,2014,4,2,sim,sim
+20219005,2021.1,2024.2,5.9,Trancado,Reopção,NULL,M,Fortaleza,Indígena,Lei nº 12.711/2012,Pública,2019,2,2,sim,não
+20171949,2017.1,2023.1,8.2,Formado,SISU,Formatura,F,Pacoti,Não declarada,Lei nº 12.711/2012,Privada,2017,0,0,sim,não
+20183103,2018.2,2024.1,6.6,Formado,SISU,Formatura,F,Internacional,Preta,Lei nº 12.711/2012,Não informado,2017,1,1,não,não
+20196107,2019.2,2024.2,6.3,Cursando,Transferência,NULL,F,Fortaleza,Não declarada,Lei nº 12.711/2012,Pública,2015,4,3,não,não
+20202982,2020.1,2024.2,7.2,Cursando,ENEM,NULL,M,Outros,Não declarada,Lei nº 12.711/2012,Pública,2018,2,0,sim,sim
+20224770,2022.1,2024.2,6.9,Cursando,SISU,NULL,M,Palmácia,Amarela,Lei nº 12.711/2012,Privada,2017,5,0,sim,sim
+20174750,2017.1,2021.2,6.3,Formado,Vestibular,Formatura,M,Outros,Parda,Ampla Concorrência,Pública,2015,2,3,sim,sim
+20204510,2020.1,2023.2,8.2,Evadido,Vestibular,Desistência,M,Internacional,Branca,Lei nº 12.711/2012,Privada,2017,3,0,sim,não
+20212545,2021.1,2025.2,6.8,Formado,SISU,Formatura,F,Outros,Não declarada,Lei nº 12.711/2012,Não informado,2018,3,3,não,não
+20151887,2015.1,2024.2,6.1,Cursando,SISU,NULL,F,Baturité,Parda,Ampla Concorrência,Não informado,2010,5,2,sim,não
+20212790,2021.1,2024.2,7.8,Cursando,SISU,NULL,M,Internacional,Parda,Ampla Concorrência,Não informado,2017,4,1,sim,sim
+20173296,2017.2,2021.2,7.3,Formado,ENEM,Formatura,M,Outros,Branca,Ampla Concorrência,Não informado,2017,0,1,não,sim
+20162604,2016.1,2019.1,5.6,Evadido,Vestibular,Abandono,F,Baturité,Parda,Ampla Concorrência,Privada,2015,1,4,sim,sim
+20248956,2024.2,2024.2,6.7,Cursando,Vestibular,NULL,F,Redenção,Preta,Lei nº 12.711/2012,Não informado,2024,0,1,sim,não
+20247209,2024.1,2024.2,7.3,Cursando,Vestibular,NULL,M,Fortaleza,Parda,Não informado,Pública,2021,3,1,não,não
+20237930,2023.2,2024.2,4.9,Trancado,Vestibular,NULL,M,Fortaleza,Indígena,Ampla Concorrência,Privada,2021,2,2,sim,sim
+20191958,2019.1,2022.2,6.6,Evadido,ENEM,Transferência,F,Outros,Não declarada,Ampla Concorrência,Pública,2015,4,3,sim,sim
+20169238,2016.1,2024.2,9.0,Cursando,ENEM,NULL,F,Fortaleza,Parda,Não informado,Pública,2015,1,0,sim,sim
+20212113,2021.1,2023.1,3.1,Evadido,ENEM,Desistência,M,Outros,Indígena,Não informado,Não informado,2017,4,1,sim,sim
+20207868,2020.2,2024.2,6.9,Cursando,Transferência,NULL,F,Outros,Preta,Ampla Concorrência,Pública,2015,5,2,não,sim
+20174910,2017.2,2024.2,7.8,Trancado,Vestibular,NULL,M,Fortaleza,Branca,Ampla Concorrência,Privada,2012,5,2,não,sim
+20205915,2020.2,2022.1,7.8,Evadido,Vestibular,Transferência,F,Baturité,Não declarada,Ampla Concorrência,Pública,2016,4,2,sim,não
+20152638,2015.1,2021.1,7.2,Formado,Transferência,Formatura,F,Fortaleza,Branca,Ampla Concorrência,Pública,2013,2,0,não,sim
+20245002,2024.2,2024.2,8.2,Cursando,SISU,NULL,F,Fortaleza,Parda,Ampla Concorrência,Privada,2021,3,1,não,sim
+20189666,2018.1,2024.2,5.8,Cursando,ENEM,NULL,F,Acarape,Não declarada,Ampla Concorrência,Pública,2017,1,3,não,sim
+20212891,2021.1,2024.2,7.4,Cursando,SISU,NULL,M,Fortaleza,Branca,Ampla Concorrência,Pública,2019,2,2,sim,não
+20194450,2019.2,2024.2,7.4,Cursando,SISU,NULL,M,Palmácia,Branca,Ampla Concorrência,Pública,2015,4,1,sim,não
+20205114,2020.1,2024.2,8.8,Formado,SISU,Formatura,M,Redenção,Branca,Ampla Concorrência,Pública,2020,0,1,não,sim
+20203143,2020.2,2024.2,6.8,Cursando,Vestibular,NULL,F,Outros,Não declarada,Ampla Concorrência,Pública,2016,4,3,sim,não
+20171158,2017.1,2018.1,5.8,Evadido,Transferência,Desistência,M,Fortaleza,Parda,Ampla Concorrência,Privada,2013,4,5,sim,não
+20243426,2024.2,2024.2,8.4,Cursando,Transferência,NULL,M,Outros,Parda,Ampla Concorrência,Pública,2022,2,1,sim,sim
+20221653,2022.2,2024.2,6.5,Cursando,Vestibular,NULL,M,Fortaleza,Parda,Ampla Concorrência,Pública,2017,5,0,sim,sim
+20246794,2024.2,2025.1,8.2,Formado,SISU,Formatura,M,Palmácia,Amarela,Ampla Concorrência,Pública,2023,1,1,sim,sim
+20231406,2023.1,2024.2,8.4,Cursando,Vestibular,NULL,F,Acarape,Branca,Ampla Concorrência,Pública,2018,5,0,não,não
+20215371,2021.1,2024.2,7.5,Cursando,Vestibular,NULL,M,Fortaleza,Branca,Ampla Concorrência,Pública,2021,0,1,sim,não
+20244644,2024.1,2025.2,8.1,Formado,SISU,Formatura,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2023,1,0,não,sim
+20164164,2016.2,2024.2,7.9,Cursando,Internacional,NULL,M,Outros,Indígena,Ampla Concorrência,Pública,2016,0,1,não,não
+20176753,2017.2,2024.2,7.4,Cursando,Reopção,NULL,M,Baturité,Preta,Ampla Concorrência,Privada,2017,0,1,não,sim
+20153925,2015.2,2024.2,7.0,Cursando,SISU,NULL,M,Pacoti,Preta,Ampla Concorrência,Pública,2011,4,3,sim,sim
+20196663,2019.2,2024.2,7.2,Cursando,Vestibular,NULL,M,Fortaleza,Branca,Não informado,Pública,2016,3,2,não,sim
+20194114,2019.2,2024.2,8.6,Cursando,ENEM,NULL,M,Baturité,Parda,Ampla Concorrência,Pública,2019,0,0,sim,não
+20186967,2018.2,2019.2,6.7,Evadido,ENEM,Desistência,F,Internacional,Não declarada,Ampla Concorrência,Pública,2013,5,2,não,sim
+20239308,2023.2,2025.2,6.0,Evadido,Vestibular,Desistência,F,Fortaleza,Branca,Lei nº 12.711/2012,Privada,2018,5,3,não,não
+20193085,2019.1,2024.2,7.1,Cursando,SISU,NULL,F,Fortaleza,Indígena,Ampla Concorrência,Pública,2014,5,2,não,não
+20183851,2018.2,2024.2,5.9,Cursando,SISU,NULL,F,Outros,Parda,Estrangeiro,Pública,2016,2,3,não,sim
+20204443,2020.2,2024.2,7.5,Cursando,SISU,NULL,F,Pacoti,Preta,Lei nº 12.711/2012,Pública,2017,3,1,não,não
+20174501,2017.2,2024.2,7.0,Cursando,Vestibular,NULL,F,Fortaleza,Preta,Ampla Concorrência,Privada,2015,2,2,sim,sim
+20232530,2023.1,2024.2,7.9,Cursando,Transferência,NULL,F,Fortaleza,Indígena,Lei nº 12.711/2012,Pública,2022,1,0,não,sim
+20161400,2016.1,2020.2,7.7,Formado,SISU,Formatura,F,Internacional,Parda,Lei nº 12.711/2012,Privada,2013,3,2,sim,não
+20244185,2024.2,2024.2,6.9,Cursando,SISU,NULL,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2023,1,1,não,não
+20221090,2022.1,2024.2,7.7,Cursando,Reopção,NULL,M,Pacoti,Branca,Estrangeiro,Privada,2021,1,2,não,sim
+20179486,2017.2,2024.2,10.0,Cursando,Vestibular,NULL,F,Internacional,Branca,Lei nº 12.711/2012,Pública,2017,0,1,sim,sim
+20153184,2015.2,2024.2,7.4,Cursando,Transferência,NULL,F,Fortaleza,Não declarada,Ampla Concorrência,Privada,2011,4,2,não,não
+20239270,2023.2,2025.2,6.7,Evadido,ENEM,Transferência,M,Fortaleza,Branca,Lei nº 12.711/2012,Pública,2020,3,2,sim,não
+20225050,2022.2,2025.2,8.7,Formado,SISU,Formatura,M,Fortaleza,Preta,Ampla Concorrência,Privada,2019,3,0,sim,não
+20225681,2022.1,2025.2,8.1,Formado,Vestibular,Formatura,M,Fortaleza,Parda,Estrangeiro,Pública,2021,1,0,não,sim
+20224788,2022.2,2024.2,7.2,Cursando,Vestibular,NULL,F,Redenção,Não declarada,Ampla Concorrência,Pública,2022,0,1,sim,sim
+20167678,2016.2,2022.2,7.1,Formado,Transferência,Formatura,M,Outros,Preta,Ampla Concorrência,Pública,2015,1,1,não,sim
+20197381,2019.1,2024.2,7.2,Cursando,Vestibular,NULL,M,Baturité,Parda,Ampla Concorrência,Pública,2019,0,1,não,não
+20175892,2017.2,2022.1,9.2,Formado,SISU,Formatura,F,Outros,Parda,Lei nº 12.711/2012,Pública,2015,2,1,não,sim
+20238956,2023.1,2024.2,8.4,Cursando,SISU,NULL,M,Redenção,Preta,Lei nº 12.711/2012,Pública,2018,5,1,não,não
+20213704,2021.2,2025.1,9.0,Formado,SISU,Formatura,F,Fortaleza,Parda,Ampla Concorrência,Pública,2021,0,1,não,sim
+20193223,2019.2,2023.1,7.7,Formado,Transferência,Formatura,F,Palmácia,Preta,Lei nº 12.711/2012,Pública,2017,2,0,não,não
+20168449,2016.2,2021.2,8.9,Formado,SISU,Formatura,M,Redenção,Branca,Ampla Concorrência,Pública,2014,2,0,não,não
+20198705,2019.1,2022.1,4.4,Evadido,ENEM,Transferência,M,Fortaleza,Parda,Ampla Concorrência,Pública,2014,5,1,não,sim
+20191659,2019.1,2024.2,6.1,Cursando,SISU,NULL,F,Internacional,Branca,Ampla Concorrência,Privada,2019,0,1,sim,sim
+20224908,2022.1,2024.1,8.7,Evadido,Transferência,Desistência,M,Fortaleza,Indígena,Ampla Concorrência,Não informado,2017,5,1,sim,não
+20217043,2021.1,2025.1,8.5,Formado,SISU,Formatura,M,Outros,Branca,Ampla Concorrência,Pública,2021,0,0,sim,não
+20236111,2023.2,2024.2,7.8,Cursando,Vestibular,NULL,F,Pacoti,Parda,Estrangeiro,Pública,2023,0,2,não,sim
+20204978,2020.1,2024.2,8.5,Cursando,SISU,NULL,M,Redenção,Branca,Ampla Concorrência,Privada,2016,4,0,não,sim
+20176688,2017.2,2024.2,6.6,Cursando,SISU,NULL,M,Internacional,Preta,Ampla Concorrência,Pública,2013,4,2,não,sim
+20221207,2022.2,2024.2,6.1,Cursando,Reopção,NULL,F,Fortaleza,Branca,Ampla Concorrência,Pública,2019,3,2,não,sim
+20228532,2022.1,2025.1,8.9,Formado,Vestibular,Formatura,M,Fortaleza,Branca,Ampla Concorrência,Privada,2019,3,1,não,não
+20215397,2021.2,2024.2,6.8,Cursando,SISU,NULL,M,Outros,Amarela,Ampla Concorrência,Privada,2019,2,3,sim,sim
+20224995,2022.2,2024.2,7.4,Cursando,SISU,NULL,M,Fortaleza,Parda,Lei nº 12.711/2012,Privada,2022,0,1,não,não
+20206325,2020.1,2022.1,6.4,Evadido,Vestibular,Jubilamento,F,Fortaleza,Parda,Não informado,Pública,2018,2,2,não,não
+20205526,2020.1,2023.1,6.7,Evadido,SISU,Desistência,F,Palmácia,Preta,Não informado,Não informado,2015,5,3,sim,sim
+20209004,2020.1,2023.2,5.7,Evadido,Vestibular,Jubilamento,F,Fortaleza,Indígena,Ampla Concorrência,Pública,2020,0,1,não,não
+20155820,2015.1,2020.1,7.2,Formado,SISU,Formatura,M,Internacional,Branca,Ampla Concorrência,Pública,2012,3,2,não,não
+20179698,2017.2,2019.2,7.4,Evadido,SISU,Jubilamento,F,Pacoti,Preta,Lei nº 12.711/2012,Pública,2015,2,1,não,não
+20155118,2015.1,2019.1,7.6,Formado,ENEM,Formatura,M,Acarape,Parda,Não informado,Privada,2010,5,2,não,sim
+20214033,2021.1,2022.2,7.6,Evadido,SISU,Jubilamento,M,Fortaleza,Branca,Ampla Concorrência,Pública,2021,0,0,não,não
+20195853,2019.1,2024.1,6.5,Formado,SISU,Formatura,M,Palmácia,Preta,Lei nº 12.711/2012,Não informado,2014,5,1,não,sim
+20205494,2020.1,2024.2,7.0,Formado,SISU,Formatura,F,Outros,Parda,Ampla Concorrência,Privada,2020,0,0,sim,não
+20245658,2024.2,2024.2,7.9,Trancado,SISU,NULL,F,Baturité,Preta,Ampla Concorrência,Pública,2022,2,0,não,não
+20181841,2018.2,2023.1,9.3,Formado,Transferência,Formatura,M,Redenção,Não declarada,Estrangeiro,Privada,2015,3,0,sim,não
+20201878,2020.1,2024.2,7.5,Trancado,SISU,NULL,M,Fortaleza,Indígena,Ampla Concorrência,Pública,2020,0,0,sim,não
+20222940,2022.2,2024.2,8.5,Cursando,Vestibular,NULL,M,Redenção,Não declarada,Ampla Concorrência,Pública,2019,3,1,sim,não
+20185871,2018.2,2020.1,6.3,Evadido,Internacional,Transferência,F,Redenção,Parda,Ampla Concorrência,Pública,2013,5,1,sim,sim
+20165335,2016.1,2017.1,7.1,Evadido,Vestibular,Desistência,M,Palmácia,Branca,Ampla Concorrência,Privada,2015,1,0,sim,sim
+20187693,2018.2,2024.2,8.8,Cursando,Vestibular,NULL,F,Baturité,Preta,Lei nº 12.711/2012,Privada,2018,0,0,não,não
+20175720,2017.2,2024.2,6.4,Cursando,ENEM,NULL,F,Internacional,Indígena,Lei nº 12.711/2012,Privada,2012,5,1,não,sim
+20245334,2024.1,2024.2,7.1,Cursando,Transferência,NULL,M,Internacional,Branca,Lei nº 12.711/2012,Privada,2020,4,0,não,sim
+20233441,2023.2,2024.2,6.7,Cursando,SISU,NULL,M,Pacoti,Não declarada,Ampla Concorrência,Privada,2023,0,1,sim,sim
+20216039,2021.2,2024.2,7.8,Cursando,Vestibular,NULL,F,Baturité,Não declarada,Lei nº 12.711/2012,Pública,2018,3,2,não,sim
+20235982,2023.2,2025.2,4.9,Evadido,SISU,Transferência,F,Redenção,Preta,Ampla Concorrência,Privada,2019,4,1,não,sim
+20238078,2023.2,2024.2,6.9,Cursando,SISU,NULL,F,Internacional,Branca,Ampla Concorrência,Pública,2023,0,1,não,sim
+20171339,2017.2,2024.2,7.9,Cursando,Transferência,NULL,F,Acarape,Preta,Ampla Concorrência,Não informado,2014,3,2,sim,sim
+20238245,2023.2,2024.2,6.5,Cursando,SISU,NULL,F,Redenção,Parda,Ampla Concorrência,Privada,2018,5,3,sim,não
+20202494,2020.2,2024.2,7.4,Trancado,SISU,NULL,M,Outros,Parda,Ampla Concorrência,Privada,2018,2,1,não,não
+20232713,2023.1,2025.2,7.8,Formado,Internacional,Formatura,M,Fortaleza,Branca,Ampla Concorrência,Privada,2018,5,1,não,não
+20231601,2023.2,2024.2,6.0,Evadido,Vestibular,Desistência,F,Outros,Amarela,Lei nº 12.711/2012,Privada,2023,0,4,não,não
+20199431,2019.1,2022.2,7.4,Evadido,Vestibular,Transferência,M,Fortaleza,Branca,Ampla Concorrência,Privada,2018,1,2,não,sim
+20176927,2017.2,2023.2,8.4,Formado,Vestibular,Formatura,M,Baturité,Preta,Ampla Concorrência,Privada,2015,2,0,sim,sim
+20185719,2018.2,2024.2,7.0,Cursando,SISU,NULL,M,Pacoti,Preta,Lei nº 12.711/2012,Privada,2018,0,1,não,sim
+20203594,2020.2,2023.1,1.9,Evadido,SISU,Desistência,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2019,1,1,não,sim
+20238560,2023.1,2024.2,6.6,Cursando,Transferência,NULL,M,Fortaleza,Branca,Ampla Concorrência,Pública,2018,5,2,sim,não
+20239337,2023.2,2025.2,8.0,Formado,Vestibular,Formatura,F,Outros,Preta,Ampla Concorrência,Pública,2020,3,2,não,sim
+20153369,2015.2,2024.2,9.3,Cursando,Transferência,NULL,M,Outros,Parda,Ampla Concorrência,Privada,2015,0,1,sim,sim
+20207798,2020.2,2023.2,6.0,Evadido,SISU,Transferência,F,Outros,Parda,Ampla Concorrência,Privada,2015,5,3,sim,não
+20209022,2020.1,2022.2,4.5,Evadido,SISU,Jubilamento,M,Fortaleza,Não declarada,Ampla Concorrência,Pública,2016,4,5,não,não
+20187180,2018.2,2020.1,4.8,Evadido,Vestibular,Transferência,M,Internacional,Preta,Não informado,Não informado,2017,1,4,sim,não
+20171715,2017.2,2024.2,7.2,Cursando,SISU,NULL,F,Outros,Parda,Ampla Concorrência,Privada,2014,3,2,não,não
+20193492,2019.2,2024.2,5.8,Cursando,SISU,NULL,F,Redenção,Não declarada,Ampla Concorrência,Pública,2015,4,5,sim,sim
+20246439,2024.1,2025.1,5.2,Evadido,Vestibular,Desistência,F,Baturité,Não declarada,Lei nº 12.711/2012,Pública,2019,5,2,não,sim
+20197717,2019.1,2024.2,8.4,Cursando,Transferência,NULL,M,Internacional,Não declarada,Ampla Concorrência,Pública,2017,2,1,sim,não
+20207512,2020.1,2024.2,4.5,Trancado,SISU,NULL,F,Outros,Parda,Ampla Concorrência,Pública,2018,2,4,não,não
+20229864,2022.1,2024.2,7.4,Cursando,SISU,NULL,M,Outros,Preta,Ampla Concorrência,Privada,2017,5,2,sim,sim
+20195708,2019.1,2022.1,3.2,Evadido,SISU,Desistência,F,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2014,5,1,não,sim
+20248269,2024.1,2024.2,7.2,Cursando,SISU,NULL,F,Internacional,Branca,Ampla Concorrência,Pública,2024,0,1,não,sim
+20241919,2024.2,2025.2,6.1,Evadido,Vestibular,Transferência,M,Outros,Preta,Ampla Concorrência,Pública,2023,1,3,não,sim
+20183950,2018.1,2022.1,8.3,Formado,Vestibular,Formatura,F,Redenção,Branca,Estrangeiro,Pública,2015,3,0,não,sim
+20204804,2020.2,2024.2,7.6,Cursando,Vestibular,NULL,M,Outros,Parda,Ampla Concorrência,Pública,2018,2,2,não,não
+20191153,2019.2,2024.2,8.0,Cursando,SISU,NULL,M,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2019,0,1,não,sim
+20186661,2018.2,2024.2,7.8,Trancado,SISU,NULL,F,Fortaleza,Parda,Estrangeiro,Privada,2015,3,1,não,não
+20154263,2015.2,2024.2,7.3,Cursando,Vestibular,NULL,F,Outros,Parda,Estrangeiro,Pública,2014,1,1,não,sim
+20216881,2021.2,2024.2,6.4,Cursando,Vestibular,NULL,M,Palmácia,Branca,Não informado,Privada,2016,5,3,não,sim
+20205497,2020.1,2025.1,9.3,Formado,Internacional,Formatura,M,Outros,Amarela,Lei nº 12.711/2012,Pública,2019,1,1,não,não
+20164588,2016.1,2019.2,7.1,Evadido,SISU,Jubilamento,M,Internacional,Parda,Ampla Concorrência,Privada,2011,5,2,sim,sim
+20181645,2018.2,2024.2,8.1,Cursando,SISU,NULL,M,Fortaleza,Parda,Ampla Concorrência,Privada,2014,4,1,não,sim
+20243153,2024.1,2024.2,9.1,Cursando,SISU,NULL,M,Pacoti,Parda,Lei nº 12.711/2012,Pública,2019,5,1,não,não
+20183877,2018.1,2024.2,8.5,Cursando,Vestibular,NULL,M,Fortaleza,Parda,Ampla Concorrência,Pública,2014,4,1,sim,não
+20173695,2017.2,2024.2,8.1,Cursando,Vestibular,NULL,F,Outros,Branca,Ampla Concorrência,Pública,2012,5,1,não,não
+20202886,2020.2,2024.2,8.4,Cursando,ENEM,NULL,M,Outros,Branca,Ampla Concorrência,Não informado,2019,1,1,sim,sim
+20246992,2024.1,2025.1,7.2,Formado,Vestibular,Formatura,M,Outros,Parda,Lei nº 12.711/2012,Pública,2021,3,1,não,sim
+20185295,2018.2,2021.2,3.8,Evadido,SISU,Desistência,M,Fortaleza,Parda,Ampla Concorrência,Pública,2015,3,1,sim,sim
+20216374,2021.1,2024.1,7.6,Evadido,SISU,Transferência,M,Redenção,Parda,Lei nº 12.711/2012,Não informado,2016,5,1,não,não
+20222911,2022.1,2023.1,5.4,Evadido,ENEM,Desistência,M,Pacoti,Parda,Estrangeiro,Privada,2022,0,1,não,não
+20184846,2018.1,2024.2,8.3,Cursando,SISU,NULL,F,Acarape,Parda,Lei nº 12.711/2012,Pública,2016,2,1,não,não
+20223531,2022.2,2024.2,6.9,Cursando,Vestibular,NULL,M,Internacional,Não declarada,Ampla Concorrência,Pública,2018,4,3,sim,não
+20195583,2019.1,2025.2,6.8,Formado,Vestibular,Formatura,F,Fortaleza,Parda,Não informado,Pública,2016,3,1,sim,não
+20216942,2021.1,2025.2,8.2,Formado,Vestibular,Formatura,M,Acarape,Parda,Não informado,Privada,2018,3,1,não,sim
+20214109,2021.1,2025.1,6.7,Formado,SISU,Formatura,F,Redenção,Branca,Ampla Concorrência,Privada,2021,0,2,sim,sim
+20204990,2020.1,2024.2,8.1,Cursando,SISU,NULL,M,Redenção,Parda,Lei nº 12.711/2012,Pública,2016,4,0,sim,sim
+20164538,2016.1,2021.1,8.4,Formado,Vestibular,Formatura,F,Fortaleza,Preta,Não informado,Privada,2015,1,0,sim,não
+20239850,2023.2,2024.2,9.6,Cursando,Vestibular,NULL,F,Acarape,Branca,Não informado,Pública,2018,5,0,sim,sim
+20193159,2019.1,2024.1,7.3,Formado,Vestibular,Formatura,M,Acarape,Amarela,Lei nº 12.711/2012,Pública,2018,1,1,não,sim
+20171858,2017.1,2020.2,5.6,Evadido,Reopção,Desistência,M,Fortaleza,Não declarada,Ampla Concorrência,Não informado,2014,3,4,sim,sim
+20156931,2015.1,2017.1,5.8,Evadido,Vestibular,Desistência,F,Outros,Amarela,Ampla Concorrência,Privada,2012,3,1,sim,não
+20211996,2021.2,2024.2,7.2,Cursando,SISU,NULL,M,Redenção,Não declarada,Ampla Concorrência,Pública,2016,5,0,não,não
+20219032,2021.2,2024.2,8.3,Cursando,SISU,NULL,F,Acarape,Não declarada,Ampla Concorrência,Privada,2019,2,0,sim,sim
+20152076,2015.1,2017.2,5.5,Evadido,SISU,Desistência,F,Outros,Não declarada,Lei nº 12.711/2012,Privada,2012,3,5,não,não
+20208048,2020.1,2024.2,8.0,Cursando,SISU,NULL,M,Fortaleza,Não declarada,Lei nº 12.711/2012,Privada,2017,3,1,sim,sim
+20184743,2018.2,2023.2,7.3,Formado,ENEM,Formatura,F,Acarape,Parda,Ampla Concorrência,Privada,2013,5,0,não,não
+20216120,2021.2,2024.2,6.9,Cursando,SISU,NULL,M,Redenção,Branca,Ampla Concorrência,Não informado,2019,2,1,não,não
+20178770,2017.1,2024.2,6.3,Trancado,SISU,NULL,M,Baturité,Parda,Lei nº 12.711/2012,Pública,2017,0,3,sim,sim
+20212582,2021.2,2025.1,7.8,Formado,Vestibular,Formatura,F,Redenção,Não declarada,Lei nº 12.711/2012,Pública,2018,3,1,não,sim
+20197929,2019.1,2024.2,8.3,Trancado,SISU,NULL,M,Fortaleza,Preta,Lei nº 12.711/2012,Pública,2017,2,0,não,não
+20249313,2024.1,2025.2,8.3,Formado,Vestibular,Formatura,F,Fortaleza,Parda,Ampla Concorrência,Pública,2022,2,1,sim,sim
+20172882,2017.2,2023.1,9.0,Formado,ENEM,Formatura,M,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2013,4,1,não,sim
+20191474,2019.1,2021.2,4.6,Evadido,Transferência,Desistência,M,Fortaleza,Amarela,Ampla Concorrência,Pública,2019,0,2,não,não
+20173347,2017.2,2021.1,5.9,Formado,SISU,Formatura,M,Outros,Indígena,Ampla Concorrência,Não informado,2012,5,5,sim,sim
+20244524,2024.2,2025.2,7.0,Formado,Vestibular,Formatura,M,Fortaleza,Parda,Ampla Concorrência,Pública,2022,2,2,não,sim
+20236314,2023.1,2024.2,7.5,Cursando,Vestibular,NULL,F,Outros,Não declarada,Ampla Concorrência,Privada,2022,1,2,sim,sim
+20181815,2018.1,2024.2,7.4,Cursando,SISU,NULL,M,Pacoti,Parda,Lei nº 12.711/2012,Privada,2013,5,1,não,não
+20218957,2021.2,2024.2,8.4,Cursando,SISU,NULL,M,Fortaleza,Parda,Lei nº 12.711/2012,Pública,2020,1,0,não,não
+20236655,2023.2,2025.2,7.4,Formado,SISU,Formatura,F,Fortaleza,Preta,Lei nº 12.711/2012,Privada,2023,0,0,não,não
+20217475,2021.1,2025.1,9.0,Formado,SISU,Formatura,M,Palmácia,Amarela,Ampla Concorrência,Pública,2020,1,1,não,sim
+20205742,2020.2,2024.1,8.5,Formado,Internacional,Formatura,M,Fortaleza,Preta,Lei nº 12.711/2012,Pública,2019,1,0,não,não
+20187229,2018.1,2021.2,7.5,Evadido,Vestibular,Desistência,M,Outros,Amarela,Não informado,Pública,2013,5,0,sim,não
+20168147,2016.1,2024.2,8.0,Cursando,Vestibular,NULL,F,Fortaleza,Preta,Ampla Concorrência,Não informado,2014,2,2,não,sim
+20238033,2023.2,2024.2,8.6,Cursando,SISU,NULL,M,Pacoti,Não declarada,Ampla Concorrência,Pública,2023,0,1,não,não
+20241341,2024.2,2025.2,8.7,Formado,ENEM,Formatura,F,Outros,Indígena,Ampla Concorrência,Não informado,2021,3,0,não,sim
+20214986,2021.2,2024.2,4.6,Evadido,Vestibular,Jubilamento,F,Internacional,Parda,Ampla Concorrência,Pública,2019,2,3,sim,não
+20194630,2019.2,2024.2,6.4,Trancado,Reopção,NULL,M,Internacional,Indígena,Ampla Concorrência,Pública,2015,4,0,sim,sim
+20199693,2019.1,2021.2,5.4,Evadido,Transferência,Transferência,M,Baturité,Preta,Lei nº 12.711/2012,Pública,2019,0,2,sim,sim
+20225193,2022.1,2023.1,5.3,Evadido,Vestibular,Desistência,F,Fortaleza,Parda,Ampla Concorrência,Não informado,2017,5,4,sim,sim
+20238601,2023.2,2024.2,6.3,Cursando,ENEM,NULL,M,Baturité,Parda,Ampla Concorrência,Privada,2022,1,3,não,não
+20232118,2023.2,2024.2,6.1,Cursando,Transferência,NULL,M,Fortaleza,Preta,Não informado,Privada,2021,2,0,não,não
+20226766,2022.1,2024.2,6.4,Cursando,SISU,NULL,F,Outros,Parda,Ampla Concorrência,Pública,2019,3,0,não,não
